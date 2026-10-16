@@ -1,0 +1,7 @@
+numpy~=1.25.1
+gurobipy~=10.0.2
+xmltodict~=0.13.0
+networkx~=3.1
+prettytable~=3.18.0
+pandas~=2.0.3
+filelock~=3.12.2

@@ -237619,21 +237619,6 @@
 					<Minimum>4</Minimum>
 					<Maximum>10</Maximum>
 				</LimitBusyTimesConstraint>
-				<BalanceClassSizeConstraint Id="BalanceClassSizeConstraint1">
-					<Name>BalanceClassSizeConstraint1</Name>
-					<Required>false</Required>
-					<Weight>5</Weight>
-					<CostFunction>Quadratic</CostFunction>
-					<AppliesTo>
-						<EventGroups>
-							<EventGroup Reference="LS_93200"/>
-							<EventGroup Reference="LS_100600"/>
-						</EventGroups>
-						<Events/>
-					</AppliesTo>
-					<MaximumDifference>1</MaximumDifference>
-					<Type>Student</Type>
-				</BalanceClassSizeConstraint>
 				<BalanceClassSizeConstraint Id="BalanceClassSizeConstraint12">
 					<Name>BalanceClassSizeConstraint12</Name>
 					<Required>false</Required>

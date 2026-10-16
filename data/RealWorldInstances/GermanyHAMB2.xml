@@ -168483,21 +168483,6 @@
 					<MaximumDifference>1</MaximumDifference>
 					<Type>Student</Type>
 				</BalanceClassSizeConstraint>
-				<BalanceClassSizeConstraint Id="BalanceClassSizeConstraint10">
-					<Name>BalanceClassSizeConstraint10</Name>
-					<Required>false</Required>
-					<Weight>5</Weight>
-					<CostFunction>Quadratic</CostFunction>
-					<AppliesTo>
-						<EventGroups>
-							<EventGroup Reference="LS_53400"/>
-							<EventGroup Reference="LS_39400"/>
-						</EventGroups>
-						<Events/>
-					</AppliesTo>
-					<MaximumDifference>1</MaximumDifference>
-					<Type>Student</Type>
-				</BalanceClassSizeConstraint>
 				<BalanceClassSizeConstraint Id="BalanceClassSizeConstraint11">
 					<Name>BalanceClassSizeConstraint11</Name>
 					<Required>false</Required>
@@ -168537,7 +168522,6 @@
 					<AppliesTo>
 						<EventGroups>
 							<EventGroup Reference="LS_85200"/>
-							<EventGroup Reference="LS_22400"/>
 							<EventGroup Reference="LS_33800"/>
 							<EventGroup Reference="LS_33900"/>
 							<EventGroup Reference="LS_33700"/>

@@ -1,0 +1,8 @@
+MIN_STUDENTS_PER_CLASS = 'minStudentsPerClass'
+MAX_STUDENTS_PER_CLASS = 'maxStudentsPerClass'
+NUMBER_CLASSES_NO_FIXED_STUDENT_ASSIGNMENT = 'numberOfClassesWithoutFixedStudentAssignment'
+BALANCE_CLASS_SIZES = 'balanceClassSizes'
+MAX_CLASS_SIZE_DIFFERENCE = 'maxClassSizeDifference'
+NUMBER_OF_NO_OVERLAP_CONSTRAINTS = 'numberOfNoOverlapConstraints'
+CONSTRAINT_WEIGHTS = 'constraintWeights'
+COST_FUNCTIONS = 'costFunctions'

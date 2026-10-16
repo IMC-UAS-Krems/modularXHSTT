@@ -548440,11 +548440,9 @@
 						<EventGroups>
 							<EventGroup Reference="LS_139000"/>
 							<EventGroup Reference="LS_108500"/>
-							<EventGroup Reference="LS_137800"/>
 							<EventGroup Reference="LS_104500"/>
 							<EventGroup Reference="LS_139600"/>
 							<EventGroup Reference="LS_105200"/>
-							<EventGroup Reference="LS_138600"/>
 							<EventGroup Reference="LS_104300"/>
 						</EventGroups>
 						<Events/>
@@ -548474,12 +548472,10 @@
 					<CostFunction>Quadratic</CostFunction>
 					<AppliesTo>
 						<EventGroups>
-							<EventGroup Reference="LS_128200"/>
 							<EventGroup Reference="LS_103100"/>
 							<EventGroup Reference="LS_103300"/>
 							<EventGroup Reference="LS_128600"/>
 							<EventGroup Reference="LS_102200"/>
-							<EventGroup Reference="LS_132200"/>
 							<EventGroup Reference="LS_100200"/>
 							<EventGroup Reference="LS_99500"/>
 							<EventGroup Reference="LS_127400"/>
